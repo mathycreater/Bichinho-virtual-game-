@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgramaLalitinchacha
+namespace VirtualPet
 {
     public class Pet
     {
